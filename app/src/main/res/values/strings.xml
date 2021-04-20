@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Binary/Decimal Converter</string>
+    <string name="tab_text_1">Binary to Decimal</string>
+    <string name="tab_text_2">Decimal to Binary</string>
+    <string name="tab_text_3">Binary Sum</string>
+    <string name="tab_text_4">Binary Difference</string>
+    <string name="decimal_number">Decimal Number</string>
+    <string name="binary_number">Binary Number</string>
+</resources>
